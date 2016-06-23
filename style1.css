@@ -1,0 +1,21 @@
+.primary
+{
+  position:absolute;
+  top: 200px;
+}
+.difficulty img{
+  width: 450px;
+  height: 150px;
+
+}
+.container_12 .split img{
+  width:450px;
+  height: 600px;
+  margin-left: auto;
+}
+body{
+  background: #E6E6FA;
+}
+.difficulty h1{
+  color:black;
+}
