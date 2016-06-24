@@ -1,31 +1,38 @@
-body{
+body
+{
   background: #ccc;
 }
-.image img{
+.image img
+{
   margin-top: 10px;
   height: 100px;
 }
-nav li{
+nav li
+{
   display:inline;
   margin-right: 20px;
   font-family: 'Lemonada', cursive;
 }
-.grid_6{
+.grid_6
+{
   font-size: 60px;
   font-family: 'Lemonada', cursive;
   color:pink;
 }
-.container_12 .grid_4 img{
+.container_12 .grid_4 img
+{
   height: 200px;
   width: 250px;
 }
-.grid_4{
+.grid_4
+{
   font-family: 'Lemonada', cursive;
    margin-top: 20px;
    margin-left: 0px;
    margin-right: 0px;
 }
-header{
+header
+{
   position: fixed;
   background-color: black;
   width:100%;
@@ -33,16 +40,18 @@ header{
   top: 0px;
   z-index: 1000;
 }
-ul a{
+ul a
+{
   text-decoration: none;
-  font-size: 20px;
+  font-size: 30px;
   color:lightgreen;
   float:right;
   padding-right: 20px;
   margin-top: 35px;
   margin-left: 0px;
 }
-h1 a{
+h1 a
+{
   text-decoration: none;
   font-size: 30px;
   color:rose;
@@ -53,44 +62,43 @@ ul a:hover
 }
 .main
 {
-  margin-top: 175px;
+  margin-top: 150px;
 }
-h1 a:hover{
-  font-size: 35px;
-  text-decoration: underline;
-  color: black;
-}
-.grid_4 img:hover{
-  height: 210px;
-  width: 260px;
-}
-.image .grid_4{
+.image .grid_4
+{
   font-size: 45px;
     font-family: 'Lemonada', cursive;
 }
-footer{
+footer
+{
   margin-top:50px;
 font-family: 'Lemonada', cursive;
   font-size: 30px;
-  background: #f3e3e3;
+  background: black;
+  color:pink;
+  height: 100%;
 }
-footer img{
-  width:150px;
-  height: 50px;
-  padding-right: 50px;
-  margin-bottom: 50px;
+footer img
+{
+  width:40px;
+  height: 40px;
+  padding-right: 20px;
+margin-bottom: 30px;
 }
-.hero img{
+.hero img
+{
   margin-top: 65px;
   width:100%;
 }
-blockquote{
+blockquote
+{
     font-family: 'Lemonada', cursive;
     margin-top: 30px;
     font-size: 30px;
     margin-left: 130px;
 }
-h3{
+h3
+{
   position: absolute;
   top:950px;
   left: 50px;
@@ -98,49 +106,50 @@ h3{
     font-size: 25px;
 
 }
-h2{
+h2
+{
 font-family: 'Lemonada', cursive;
 font-size: 45px;
   position: absolute;
   top: 1100px;
   left: 300px;
 }
-.vertical .grid_6{
+.vertical .grid_6
+{
   color:black;
   font-size: 20px;
   margin-top: 50px;
 }
-.vertical img{
+.vertical img
+{
   width:450px;
   height: 485px;
 }
-.vertical p{
+.vertical p
+{
   text-align:justify;
 }
-.fff p{
-  margin-left: 10px;
-}
-.fff img
+.plandesc p ,.solid p
 {
-  margin-left: 100px;
-  padding-right: 0px;
-}
-.plandesc p ,.solid p{
   font-size: 20px;
   color: black;
   text-align: justify;
 }
-.plandesc h1,.solid h1{
+.plandesc h1,.solid h1
+{
   color:black;
 }
-.solid{
+.solid
+{
   position: relative;
   top: 50px;
 }
-.mine{
+.mine
+{
   margin-top:200px;
 }
-.solid img,.plane img{
+.solid img,.plane img
+{
   margin-top: 10px;
 }
 .geometry h1
@@ -170,4 +179,19 @@ font-size: 45px;
 .common
 {
   background: white;
+}
+.face
+{
+  margin-left: 500px;
+}
+.face p
+{
+  margin-left: 500px;
+  font-size: 20px;
+}
+.copy p
+{
+  color:#999;
+  font-size: 10px;
+  margin-left: 50px;
 }
