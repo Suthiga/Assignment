@@ -20,7 +20,7 @@ nav li{
   width: 250px;
 }
 .grid_4{
-   font-family: 'Galada', cursive;
+  font-family: 'Lemonada', cursive;
    margin-top: 20px;
    margin-left: 0px;
    margin-right: 0px;
@@ -35,12 +35,12 @@ header{
 }
 ul a{
   text-decoration: none;
-  font-size: 25px;
+  font-size: 30px;
   color:lightgreen;
   float:right;
   padding-right: 20px;
   margin-top: 35px;
-  margin-left: 30px;
+  margin-left: 0px;
 }
 h1 a{
   text-decoration: none;
@@ -65,17 +65,20 @@ h1 a:hover{
   width: 260px;
 }
 .image .grid_4{
-  font-size: 50px;
+  font-size: 45px;
+    font-family: 'Lemonada', cursive;
 }
 footer{
-  margin:50px;
-  font-family: 'Galada', cursive;
+  margin-top:50px;
+font-family: 'Lemonada', cursive;
   font-size: 30px;
+  background: #f3e3e3;
 }
 footer img{
   width:150px;
   height: 50px;
   padding-right: 50px;
+  margin-bottom: 50px;
 }
 .hero img{
   margin-top: 65px;
@@ -90,13 +93,13 @@ blockquote{
 h3{
   position: absolute;
   top:950px;
-  left: 20px;
-    font-family: 'Mogra', cursive;
-    font-size: 35px;
+  left: 50px;
+  font-family: 'Lemonada', cursive;
+    font-size: 25px;
 
 }
 h2{
-font-family: 'Mogra', cursive;
+font-family: 'Lemonada', cursive;
 font-size: 45px;
   position: absolute;
   top: 1100px;
@@ -108,6 +111,17 @@ font-size: 45px;
   margin-top: 50px;
 }
 .vertical img{
-  width:400px;
-  height: 390px;
+  width:450px;
+  height: 485px;
+}
+.vertical p{
+  text-align:justify;
+}
+.fff p{
+  margin-left: 10px;
+}
+.fff img
+{
+  margin-left: 100px;
+  padding-right: 0px;
 }
