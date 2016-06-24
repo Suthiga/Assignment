@@ -125,3 +125,49 @@ font-size: 45px;
   margin-left: 100px;
   padding-right: 0px;
 }
+.plandesc p ,.solid p{
+  font-size: 20px;
+  color: black;
+  text-align: justify;
+}
+.plandesc h1,.solid h1{
+  color:black;
+}
+.solid{
+  position: relative;
+  top: 50px;
+}
+.mine{
+  margin-top:200px;
+}
+.solid img,.plane img{
+  margin-top: 10px;
+}
+.geometry h1
+{
+   font-size: 50px;
+   font-family: 'Galada', cursive;
+   margin-top: 140px;
+   margin-left: 850px;
+}
+.geometry
+{
+  background: url('geo.jpg');
+  width: 100%;
+  height: 100%;
+  position:relative;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.plane
+{
+  position: relative;
+  top:50px;
+}
+.mine img,.mine p{
+  margin-left: 50px;
+}
+.common
+{
+  background: white;
+}
