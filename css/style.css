@@ -27,9 +27,9 @@ nav li
 .grid_4
 {
   font-family: 'Lemonada', cursive;
-   margin-top: 20px;
-   margin-left: 0px;
-   margin-right: 0px;
+  margin-top: 20px;
+  margin-left: 0px;
+  margin-right: 0px;
 }
 header
 {
@@ -67,12 +67,12 @@ ul a:hover
 .image .grid_4
 {
   font-size: 45px;
-    font-family: 'Lemonada', cursive;
+  font-family: 'Lemonada', cursive;
 }
 footer
 {
   margin-top:50px;
-font-family: 'Lemonada', cursive;
+  font-family: 'Lemonada', cursive;
   font-size: 30px;
   background: black;
   color:pink;
@@ -83,7 +83,7 @@ footer img
   width:40px;
   height: 40px;
   padding-right: 20px;
-margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 .hero img
 {
@@ -92,10 +92,10 @@ margin-bottom: 30px;
 }
 blockquote
 {
-    font-family: 'Lemonada', cursive;
-    margin-top: 30px;
-    font-size: 30px;
-    margin-left: 130px;
+  font-family: 'Lemonada', cursive;
+  margin-top: 30px;
+  font-size: 30px;
+  margin-left: 130px;
 }
 h3
 {
@@ -103,13 +103,13 @@ h3
   top:950px;
   left: 50px;
   font-family: 'Lemonada', cursive;
-    font-size: 25px;
+  font-size: 25px;
 
 }
 h2
 {
-font-family: 'Lemonada', cursive;
-font-size: 45px;
+  font-family: 'Lemonada', cursive;
+  font-size: 45px;
   position: absolute;
   top: 1100px;
   left: 300px;
@@ -154,10 +154,10 @@ font-size: 45px;
 }
 .geometry h1
 {
-   font-size: 50px;
-   font-family: 'Galada', cursive;
-   margin-top: 140px;
-   margin-left: 850px;
+  font-size: 50px;
+  font-family: 'Galada', cursive;
+  margin-top: 140px;
+  margin-left: 850px;
 }
 .geometry
 {
